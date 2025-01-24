@@ -1,3 +1,5 @@
+/*PalinListRunner Class- Contains all test cases provided, runs PalinList methods.
+@author Kenedi Carson*/
 public class PalinListRunner
 {
     public static void main(String[] args) {
